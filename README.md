@@ -1,5 +1,5 @@
-# Kotlin_study
-### 코틀린 스터티 (2021.01.04 ~ )
+# KotlinProgramming
+### 코틀린 프로그래밍 (2021.01.04 ~ )
 ---
 ### chapter 01 코틀린 시작하기
 ### chapter 02 변수와 자료형, 연산자
