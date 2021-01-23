@@ -1,4 +1,4 @@
-# KotlinProgramming
+# Kotlin Programming
 ### 코틀린 프로그래밍 (2021.01.04 ~ )
 ---
 ### chapter 01 코틀린 시작하기
