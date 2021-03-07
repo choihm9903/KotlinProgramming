@@ -21,5 +21,6 @@ fun main() {
             }
         }
     )
+//  products.sortWith(compareBy({it.name}, {it.price}))
     products.forEach { println(it) }
 }
